@@ -17,7 +17,7 @@
 
 - Assignment "Exercises Lists and Keys" can be found [here](https://docs.google.com/document/d/1VlfZly4e6ZnCWJrv1LYhSDQMnBZn3NsyH7VQNLxCOME/edit)
 1. How far you got with a solution: 
-- Did everything without except 1) d).
+- Did everything without yellow/red colors.
 2. Where the solution to each exercise can be found in your commit:
 - Location for Exercise can be found at "flow3_week1/Wedensday/list_and_keys/"
 <br>
@@ -25,7 +25,7 @@
 ## Thursday
 - Assignment "State med useState og useEffect" can be found [here](https://docs.google.com/document/d/1rEaU8ObqoxHF3vt_fIsTfEb3yLRnVF8fCWobJJ9c2wo/edit)
 1. How far you got with a solution: 
-- Did everything without except 1) d).
+- Did everything without yellow/red colors.
 2. Where the solution to each exercise can be found in your commit:
 - Location for Exercise can be found at "flow3_week1/Thursday/forms_and_controlled_components/"
 <br><br>
